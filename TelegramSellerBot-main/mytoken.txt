@@ -1,0 +1,2 @@
+Токен вашего бота вставлять сюда / Your bot token here
+"7153960098:AAFnQDODj6dfmRbqCMXw-CuNTAsYkIPSt2I"
