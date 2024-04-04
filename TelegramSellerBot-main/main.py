@@ -7,7 +7,7 @@ from telebot import types
 # Удали 6 и 7 строчки и вместо переменной mytoken в 10 строчке напиши свой токен
 # Пример: bot = telebot.TeleBot('62732:RyJidSDIdi...')
 # file = open
-bot = telebot.TeleBot('7153960098:AAFnQDODj6dfmRbqCMXw-CuNTAsYkIPSt2I')
+bot = telebot.TeleBot('your token')
 # mytoken = file.read()
 # Передаем сюда токен, который получили от FatherBot
 # bot = telebot.TeleBot(mytoken)
